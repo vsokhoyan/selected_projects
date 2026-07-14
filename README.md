@@ -240,6 +240,6 @@ current approaches to ML model evaluation and validation.
 
 ## Research Profiles
 
-- Google Scholar: [(link)](https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de)
+- Google Scholar: https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de
 - ORCID: https://www.scopus.com/authid/detail.uri?authorId=23989342800, h-index = 26
 - Kaggle profile: https://www.kaggle.com/vahesokhoyan
