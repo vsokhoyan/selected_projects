@@ -1,6 +1,6 @@
 # Selected Machine Learning and Scientific Projects
 
-My work combines 15+ years of experimental physics research 
+My work combines 20+ years of experimental physics research 
 (PhD from the University of Bonn, research at the University of Mainz and George Washington University, 
 70+ peer-reviewed publications, Carl Zeiss Fellowship, scientific leadership and management roles) 
 with modern machine learning across entity resolution, medical imaging, computational biology, and production data science. 
