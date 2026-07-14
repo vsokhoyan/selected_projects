@@ -181,7 +181,7 @@ for nucleon scalar polarizabilities.
 
 ---
 
-### Carl Zeiss Research Fellowship (Independent Group Leader)
+### Carl Zeiss Research Fellowship (Project Leader)
 
 Independent research project investigating in-medium 
 modifications of baryon resonances using circularly polarized 
