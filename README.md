@@ -122,9 +122,9 @@ scientific prediction tasks, including biological sequence
 analysis and scientific LLM benchmarking.
 
 **Projects include:**
-- RNA structure prediction
-- MedGemma and Qwen fine-tuning for medical imaging tasks
-- Nemotron scientific LLM evaluation and benchmarking
+- RNA structure prediction (Stanford RNA 3D Folding Part 2 at Kaggle, top 27%). 
+- MedGemma and Qwen fine-tuning for medical imaging tasks.
+- Nemotron scientific LLM evaluation and benchmarking.
 
 **Outcome:** Practical experience with fine-tuning and 
 deploying large foundation models across biological, medical, 
@@ -145,7 +145,7 @@ CBELSA/TAPS experiment at ELSA accelerator in Bonn (University of Bonn, 2006–2
 
 **Main contributions:**
 - Large scale data analysis
-- Monte Carlo simulations of comlex detection apparatus and physical processes
+- Monte Carlo simulations of complex detection apparatus and physical processes
 - Preparation of particle detectors
 - Multiple first-author publications
 
@@ -193,7 +193,7 @@ underlying all subsequent machine learning work across medical
 imaging and computational biology.
 
 **Main contributions:**
-- Proposed the idea of using circularly polarized photons to investgate in-medium modifications of baryon resonances on heavy targets.
+- Proposed the idea of using circularly polarized photons to investigate in-medium modifications of baryon resonances on heavy targets.
 - Competitive fellowship proposal (€200k awarded by Carl-Zeiss-Stiftung)
 - Independent project leadership
 - Student and postdoc supervision
@@ -217,7 +217,7 @@ chambers for precision proton-radius and polarizability measurements
 **Main contributions:**
 - Hardware coordination and interim spokesperson 
   (PRES Collaboration on the German side at the University of Mainz)
-- Monte carlo (GEANT4) detector simulations for TPC integration with Crystal Ball calorimeter
+- Monte Carlo (GEANT4) detector simulations for TPC integration with Crystal Ball calorimeter
 - Design, coordination and execution of multiple experimental campaigns
 
 ---
