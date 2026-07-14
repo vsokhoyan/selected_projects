@@ -44,7 +44,7 @@ Comprehensive technical writeup published.
 ---
 
 ### Computational Biology
-#### CAFA-6 – Protein Function Prediction
+#### CAFA-6 – Protein Function Prediction (March 2026)
 
 Development of transformer-based methods for automatic protein 
 function annotation using ProtT5-XL and ESM2 foundation models, 
