@@ -141,7 +141,7 @@ and scientific domains.
 ### Polarization Observables in Meson Photoproduction (PhD)
 
 First measurement of polarization observables Is and Ic in double pion photoproduction with the 
-CBELSA/TAPS experiment at ELSA accelrator in Bonn (University of Bonn, 2006–2012).
+CBELSA/TAPS experiment at ELSA accelerator in Bonn (University of Bonn, 2006–2012).
 
 **Main contributions:**
 - Large scale data analysis
@@ -149,13 +149,12 @@ CBELSA/TAPS experiment at ELSA accelrator in Bonn (University of Bonn, 2006–20
 - Preparation of particle detectors
 - Multiple first-author publications
 
-**Outcome:** One publication selected by the Particle Data 
+**Outcome:** One of the publications (Eur.Phys.J. A51 (2015) no.8, 95 (2015)) selected by the Particle Data 
 Group (PDG) as the primary reference for properties of several 
 baryon resonances (the highest citation standard in particle 
 physics).
 
 **Links:**
-- PDG reference: (link)
 - V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015).
 - V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction gammap→p2pi0“, Eur.Phys.J. A51 (2015) no.8, 95 (2015).
 - A. Thiel, V. Sokhoyan, E. Gutz, H. van Pee et al., “Three-body nature of N* and Delta* resonances from sequential decay chains”, Phys.Rev.Lett. 114 no.9, 091803 (2015).
@@ -177,7 +176,7 @@ using beam asymmetry below the pion-production threshold
 Physical Journal A, providing a new experimental reference 
 for nucleon scalar polarizabilities. 
 
-**Links:**
+**Link:**
 - Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Sigma3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017).
 
 ---
@@ -241,5 +240,5 @@ current approaches to ML model evaluation and validation.
 ## Research Profiles
 
 - Google Scholar: https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de
-- ORCID: https://www.scopus.com/authid/detail.uri?authorId=23989342800, h-index = 26
+- Scopus Profile: https://www.scopus.com/authid/detail.uri?authorId=23989342800, h-index = 26
 - Kaggle profile: https://www.kaggle.com/vahesokhoyan
