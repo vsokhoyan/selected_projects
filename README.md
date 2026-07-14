@@ -210,8 +210,8 @@ and Physical Review C.
 
 ### Active Target TPC Development (PRES / A2 Collaboration)
 
-Development and integration of an active time-projection 
-chamber (ACTAF2) for precision proton-radius and polarizability measurements 
+Experimental programs with integration of active time-projection 
+chambers for precision proton-radius and polarizability measurements 
 (University of Mainz, 2017–2023).
 
 **Main contributions:**
