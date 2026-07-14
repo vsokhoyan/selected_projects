@@ -1,201 +1,245 @@
-# selected_projects
-
 # Selected Machine Learning and Scientific Projects
 
-This repository provides a concise overview of selected research and machine learning projects from experimental physics, computational biology, medical imaging, and applied data science.
-
-My work focuses on developing machine learning methods for complex scientific and industrial data, combining experience in large-scale experimental physics with modern deep learning techniques.
-
----
-
-# Machine Learning Projects
-
-## Medical AI
-
-### AMIA 2026 – Medical Image Analysis Challenge (3rd Place, Private Leaderboard)
-
-Development of an ensemble solution for medical image analysis using modern object detection architectures, robust validation, and post-processing techniques.
-
-Main topics:
-
-- Object detection using transformer-based architectures
-- Model ensembling
-- Cross-validation and robustness analysis
-- Error analysis and post-processing
-
-**Outcome**
-
-- 3rd place on the private leaderboard
-- Comprehensive technical writeup
-
-**Links**
-
-- GitHub writeup: *(link)*
-- Kaggle: *(link)*
+My work combines 15+ years of experimental physics research 
+(PhD from the University of Bonn, research at the University of Mainz and George Washington University, 
+70+ peer-reviewed publications, Carl Zeiss Fellowship, scientific leadership and management roles) 
+with modern machine learning across entity resolution, medical imaging, computational biology, and production data science. 
+The common thread: systematic experimental methodology and solution of non-trivial tasks applied to complex, noisy, 
+real-world data.
 
 ---
 
-## Computational Biology
+## Machine Learning Projects
 
-### CAFA-6 – Protein Function Prediction
+### Medical AI
 
-Development of transformer-based methods for automatic protein function prediction using ProtT5 and ESM2 foundation models.
+#### AMIA 2026 – Medical Image Analysis Challenge (3rd Place, June 2026)
 
-The project systematically investigates:
+Development of a solution for multi-class chest X-ray abnormality detection, 
+achieving 3rd place on the private leaderboard among 200+ participants.
 
-- End-to-end transformer fine-tuning
-- Fixed embedding baselines
-- Rare-label prediction
-- Information-theoretic ensemble aggregation
+The project systematically investigates detector complementarity 
+across architectures (RT-DETR, DINO), optimization strategies 
+(ADAM, MuSGD), and cross-validation folds. The central finding 
+is that selective evidence fusion, using independent detectors 
+as supporting evidence rather than fusing all predictions,
+consistently outperforms naive ensembling.
+
+**Main topics:**
+- Object detection with transformer-based architectures 
+  (RT-DETR, DINO)
+- Detector complementarity and confidence-based reranking
+- Cross-fold consensus and donor selection
+- VLM experiments for annotation refinement (MedGemma, Qwen)
+- Distribution shift analysis and validation-to-leaderboard 
+  transfer
+
+**Outcome:** 3rd place (private leaderboard, 200+ participants). 
+Comprehensive technical writeup published.
+
+**Links:**
+- GitHub writeup: https://vsokhoyan.github.io/ChestXRay_Multiclass_Detection/
+- Kaggle: https://www.kaggle.com/writeups/vahesokhoyan/chest-x-ray-multi-class-object-detection-rt-detr
+
+---
+
+### Computational Biology
+#### CAFA-6 – Protein Function Prediction
+
+Development of transformer-based methods for automatic protein 
+function annotation using ProtT5-XL and ESM2 foundation models, 
+including end-to-end fine-tuning and systematic benchmarking 
+against fixed-embedding baselines.
+
+A key methodological contribution is an information-accretion-
+aware ensemble aggregation strategy, which uses different 
+aggregation schemes for ontology regions depending on label 
+specificity, addressing the challenge of rare-label signal 
+preservation in hierarchical multi-label prediction.
+
+**Main topics:**
+- End-to-end transformer fine-tuning (ProtT5-XL 3B, ESM2)
+- Fixed embedding baselines vs fine-tuned models
+- Rare-label training dynamics and label-frequency analysis
+- Information-accretion-aware ensemble aggregation
+- GO-DAG propagation and ontology-consistent postprocessing
 - Reference-guided prediction refinement
 
-**Outcome**
+**Outcome:** Detailed methodological report published. 
+Work in progress toward a scientific publication.
 
-- Top 50% leaderboard performance
-- Comprehensive methodological report
-- Ongoing work toward a scientific publication
-
-**Links**
-
-- GitHub writeup: *(link)*
+**Links:**
+- GitHub writeup: https://vsokhoyan.github.io/CAFA6-ML/
 
 ---
 
-## Applied Machine Learning
+### Applied Machine Learning
 
-### Entity Resolution and Fraud Detection
+#### Entity Resolution and Fraud Detection
 
-Development of production machine learning methods for entity resolution within the German Financial Administration.
+Development of production machine learning methods for 
+large-scale entity resolution within the German Financial 
+Administration, including methods for distinguishing genuine 
+entity matches from typographical variations and OCR-distorted 
+name pairs.
 
-Main topics include:
+**Main topics:**
+- Siamese neural networks for pairwise similarity
+- Transformer-based and BERT embedding approaches
+- Graph-based entity resolution
+- Handling of real-world data quality issues (typos, OCR 
+  distortions, formatting inconsistencies)
 
-- Siamese neural networks
-- Transformer-based similarity models
-- BERT embeddings
-- Graph-based approaches
-- Detection of genuine entity matches versus typographical variations
-
-**Outcome**
-
-Production deployment in operational systems.
-
-*Technical implementation cannot be shared publicly.*
-
----
-
-## Scientific Machine Learning
-
-### Machine Learning for Correlated Event Identification in Nuclear Physics
-
-Development of a machine learning method for identifying correlated events in tagged-photon experiments.
-
-The method improves event matching and measurement accuracy under realistic experimental conditions.
-
-**Outcome**
-
-Published in the *Journal of Instrumentation (JINST).*
-
-**Links**
-
-- Publication: *(link)*
+**Outcome:** Production deployment in operational systems 
+serving the German Financial Administration. 
 
 ---
 
-## Foundation Models
+#### ML for Correlated Event Identification in Nuclear Physics
 
-### Scientific LLM and RNA Projects
+Development of a machine learning method for identifying 
+correlated events in tagged-photon nuclear physics experiments. 
+The method improves event matching and measurement accuracy 
+under realistic experimental conditions with overlapping 
+background.
 
-Evaluation and application of modern large language models and foundation models to scientific data analysis problems, including biological sequence analysis.
+This project directly bridges experimental physics and modern 
+ML: the challenge of extracting weak correlated signals from 
+large noisy datasets is common to both domains.
 
-Topics include:
+**Outcome:** Published in the Journal of Instrumentation (JINST).
 
-- RNA-related prediction tasks
-- Scientific LLM evaluation
-- Nemotron experiments
-- Prompt engineering and model benchmarking
+**Links:**
+- Publication: V. Sokhoyan, E. Mornacchi, “A new Machine Learning-based method for identification of time-correlated events at tagged photon facilities”,
+  Journal of Instrumentation 18, P10007 (2023), https://arxiv.org/abs/2307.04776
 
 ---
 
-# Selected Scientific Projects
+### Foundation Models and Sequence Analysis: RNA, LLMs, and Biological Sequences
 
-## Polarization Observables in Meson Photoproduction (PhD)
+Evaluation and application of modern foundation models to 
+scientific prediction tasks, including biological sequence 
+analysis and scientific LLM benchmarking.
 
-Precision measurements of polarization observables using the CBELSA/TAPS experiment at ELSA (University of Bonn).
+**Projects include:**
+- RNA structure prediction
+- MedGemma and Qwen fine-tuning for medical imaging tasks
+- Nemotron scientific LLM evaluation and benchmarking
 
-Main contributions:
+**Outcome:** Practical experience with fine-tuning and 
+deploying large foundation models across biological, medical, 
+and scientific domains.
 
-- Experimental design
-- Complete analysis chain
+**Links:**
+
+- Kaggle: https://www.kaggle.com/vahesokhoyan/competitions
+
+---
+
+## Selected Scientific Projects
+
+### Polarization Observables in Meson Photoproduction (PhD)
+
+First measurement of polarization observables Is and Ic in double pion photoproduction with the 
+CBELSA/TAPS experiment at ELSA accelrator in Bonn (University of Bonn, 2006–2012).
+
+**Main contributions:**
+- Large scale data analysis
+- Monte Carlo simulations of comlex detection apparatus and physical processes
+- Preparation of particle detectors
 - Multiple first-author publications
 
-**Outcome**
+**Outcome:** One publication selected by the Particle Data 
+Group (PDG) as the primary reference for properties of several 
+baryon resonances (the highest citation standard in particle 
+physics).
 
-One publication was selected by the Particle Data Group as a reference for several baryon resonances.
+**Links:**
+- PDG reference: (link)
+- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015).
+- V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction gammap→p2pi0“, Eur.Phys.J. A51 (2015) no.8, 95 (2015).
+- A. Thiel, V. Sokhoyan, E. Gutz, H. van Pee et al., “Three-body nature of N* and Delta* resonances from sequential decay chains”, Phys.Rev.Lett. 114 no.9, 091803 (2015).
+---
+
+### Proton Scalar Polarizabilities (GWU)
+
+First measurement of proton scalar polarizabilities 
+using beam asymmetry below the pion-production threshold 
+(George Washington University and University of Mainz, 2012–2014).
+
+**Main contributions:**
+- Full experimental analysis and physical interpretation
+- Proposal development and successful defense at Program 
+  Advisory Committee
+- First-author publication
+
+**Outcome:** Published as first author in the European 
+Physical Journal A, providing a new experimental reference 
+for nucleon scalar polarizabilities. 
+
+**Links:**
+- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Sigma3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017).
 
 ---
 
-## Proton Scalar Polarizabilities
+### Carl Zeiss Research Fellowship (Independent Group Leader)
 
-First precision measurement of proton scalar polarizabilities using beam asymmetry below the pion-production threshold.
+Independent research project investigating in-medium 
+modifications of baryon resonances using circularly polarized 
+photon beams (University of Mainz, 2015–2016).
 
-Main contributions:
+This project required extraction of weak resonance signals 
+from large, noisy nuclear datasets — the same core challenge 
+underlying all subsequent machine learning work across medical 
+imaging and computational biology.
 
-- Experimental analysis
-- Interpretation of polarizability measurements
-- Proposal development for new beam time
+**Main contributions:**
+- Proposed the idea of using circularly polarized photons to investgate in-medium modifications of baryon resonances on heavy targets.
+- Competitive fellowship proposal (€200k awarded by Carl-Zeiss-Stiftung)
+- Independent project leadership
+- Student and postdoc supervision
+- Experimental campaign coordination at MAMI
+- Data analysis and publication
 
-**Outcome**
+**Outcome:** First-author publications in Physics Letters B 
+and Physical Review C.
 
-Published as first author in the *European Physical Journal A.*
-
----
-
-## Carl Zeiss Research Fellowship
-
-Independent research project investigating in-medium modifications of baryon resonances using polarized photon beams.
-
-Main contributions:
-
-- Fellowship proposal
-- Project leadership
-- Student supervision
-- Experimental coordination
-- Data analysis
-
-**Outcome**
-
-First-author publications in *Physics Letters B* and *Physical Review C.*
+- V. Sokhoyan, S. Prakhov, A. Fix et al., “Measurement of the beam-helicity asymmetry in photoproduction of π0η pairs on carbon, aluminum, and lead“, Phys. Lett. B 802, 135243 (2020).
+- V. Sokhoyan, S. Prakhov, A. Fix et al., “Study of the gammap→pi0 eta p reaction with the A2 setup at MAMI”, Phys. Rev. C 97, 055212 (2018).
 
 ---
 
-## Active Target TPC Development (PRES / A2 Collaboration)
+### Active Target TPC Development (PRES / A2 Collaboration)
 
-Development and integration of an active time-projection chamber for precision proton-radius measurements.
+Development and integration of an active time-projection 
+chamber (ACTAF2) for precision proton-radius and polarizability measurements 
+(University of Mainz, 2017–2023).
 
-Main contributions:
-
-- Hardware coordination
-- Detector simulations
-- Experimental campaigns
-- Integration with Crystal Ball calorimeter
-
----
-
-## Scientific Leadership within the A2 Collaboration
-
-Scientific referee for analyses and publications of the A2 Collaboration.
-
-Responsibilities included:
-
-- Review of scientific analyses
-- Publication quality assurance
-- Coordination of detector operation
-- Semi-online monitoring during beam time
+**Main contributions:**
+- Hardware coordination and interim spokesperson 
+  (PRES Collaboration on the German side at the University of Mainz)
+- Monte carlo (GEANT4) detector simulations for TPC integration with Crystal Ball calorimeter
+- Design, coordination and execution of multiple experimental campaigns
 
 ---
 
-# Research Profiles
+### Scientific Leadership within the A2 Collaboration
 
-- Google Scholar: *(link)*
-- ORCID: *(link)*
-- Personal webpage: *(link)*
+Scientific referee for the majority of publications of the 
+A2 Collaboration at MAMI (2018–2023). Responsibilities 
+included systematic review of experimental analyses, 
+publication quality assurance, and coordination of large
+scale experiment.
+
+The systematic quality-assessment methodology developed in 
+this role, evaluating consistency, reproducibility, and 
+error propagation across large datasets, directly connects with 
+current approaches to ML model evaluation and validation.
+
+---
+
+## Research Profiles
+
+- Google Scholar: [(link)](https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de)
+- ORCID: https://www.scopus.com/authid/detail.uri?authorId=23989342800, h-index = 26
+- Kaggle profile: https://www.kaggle.com/vahesokhoyan
