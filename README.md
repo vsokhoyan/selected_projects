@@ -95,7 +95,7 @@ serving the German Financial Administration.
 
 ---
 
-#### ML for Correlated Event Identification in Nuclear Physics
+#### ML for Identification of Correlated Events in Nuclear Physics Experiments
 
 Development of a machine learning method for identifying 
 correlated events in tagged-photon nuclear physics experiments. 
