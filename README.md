@@ -7,6 +7,9 @@ with modern machine learning across entity resolution, medical imaging, computat
 The common thread: systematic experimental methodology and solution of non-trivial tasks applied to complex, noisy, 
 real-world data.
 
+[Machine Learning Projects](#machine-learning-projects) ·
+[Selected Scientific Projects](#selected-scientific-projects) ·
+[Research Profiles](#research-profiles)
 ---
 
 ## Machine Learning Projects
@@ -149,9 +152,7 @@ CBELSA/TAPS experiment at ELSA accelerator in Bonn (University of Bonn, 2006–2
 - Multiple first-author publications
 
 **Outcome:** One of the publications (Eur.Phys.J. A51 (2015) no.8, 95 (2015)) selected by the Particle Data 
-Group (PDG) as the primary reference for properties of several 
-baryon resonances (the highest citation standard in particle 
-physics).
+Group (PDG) as the primary reference for properties of multiple baryon resonances and their properties.
 
 **Links:**
 - V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015), [Read open access at PLB](https://www.sciencedirect.com/science/article/pii/S0370269315003299?via%3Dihub).
