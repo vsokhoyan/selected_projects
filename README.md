@@ -148,17 +148,17 @@ First measurement of polarization observables Is and Ic in double pion photoprod
 CBELSA/TAPS experiment at ELSA accelerator in Bonn (University of Bonn, 2006–2012).
 
 **Main contributions:**
-- Large scale data analysis
+- Large-scale data analysis
 - Monte Carlo simulations of complex detection apparatus and physical processes
 - Preparation of particle detectors
 - Multiple first-author publications
 
-**Outcome:** One of the publications (Eur. Phys. J. A51 (2015) no.8, 95 (2015)) selected by the Particle Data 
+**Outcome:** One of the publications (Eur. Phys. J. A51, no.8, 95 (2015)) selected by the Particle Data 
 Group (PDG) as the primary reference for properties of multiple baryon resonances.
 
 **Links:**
-- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on Is and Ic in γp → pπ⁰π⁰ reveal cascade decays of N(1900) via N(1520)pi”, Phys. Lett. B746 (2015) 127-131 (2015), [Read open access at PLB](https://www.sciencedirect.com/science/article/pii/S0370269315003299?via%3Dihub).
-- V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction γp → p2π⁰“, Eur. Phys. J. A51 (2015) no.8, 95 (2015), [Read on arxiv](https://arxiv.org/abs/1507.02488).
+- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on Is and Ic in γp → pπ⁰π⁰ reveal cascade decays of N(1900) via N(1520)pi”, Phys. Lett. B746, 127-131 (2015), [Read open access at PLB](https://www.sciencedirect.com/science/article/pii/S0370269315003299?via%3Dihub).
+- V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction γp → p2π⁰“, Eur. Phys. J. A51 no.8, 95 (2015), [Read on arxiv](https://arxiv.org/abs/1507.02488).
 - A. Thiel, V. Sokhoyan, E. Gutz, H. van Pee et al., “Three-body nature of N and Delta resonances from sequential decay chains”, Phys. Rev. Lett. 114 no. 9, 091803 (2015), [Read on arxiv](https://arxiv.org/abs/1501.02094).
 
 ---
@@ -230,8 +230,7 @@ chambers for precision proton-radius and polarizability measurements
 Scientific referee for the majority of publications of the 
 A2 Collaboration at MAMI (2018–2023). Responsibilities 
 included systematic review of experimental analyses, 
-publication quality assurance, and coordination of large
-scale experiment.
+publication quality assurance, and coordination of large-scale experiments.
 
 The systematic quality-assessment methodology developed in 
 this role, evaluating consistency, reproducibility, and 
