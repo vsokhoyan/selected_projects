@@ -10,6 +10,7 @@ real-world data.
 [Machine Learning Projects](#machine-learning-projects) ·
 [Selected Scientific Projects](#selected-scientific-projects) ·
 [Research Profiles](#research-profiles)
+
 ---
 
 ## Machine Learning Projects
