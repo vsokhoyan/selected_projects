@@ -155,9 +155,9 @@ baryon resonances (the highest citation standard in particle
 physics).
 
 **Links:**
-- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015).
-- V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction gammap→p2pi0“, Eur.Phys.J. A51 (2015) no.8, 95 (2015).
-- A. Thiel, V. Sokhoyan, E. Gutz, H. van Pee et al., “Three-body nature of N and Delta resonances from sequential decay chains”, Phys.Rev.Lett. 114 no.9, 091803 (2015).
+- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015), [Read on arxiv](https://arxiv.org/abs/1907.00232).
+- V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction gammap→p2pi0“, Eur.Phys.J. A51 (2015) no.8, 95 (2015), [Read on arxiv](https://arxiv.org/abs/1507.02488).
+- A. Thiel, V. Sokhoyan, E. Gutz, H. van Pee et al., “Three-body nature of N and Delta resonances from sequential decay chains”, Phys.Rev.Lett. 114 no.9, 091803 (2015), [Read on arxiv](https://arxiv.org/abs/1501.02094).
 
 ---
 
@@ -178,7 +178,7 @@ Physical Journal A, providing a new experimental reference
 for nucleon scalar polarizabilities. 
 
 **Link:**
-- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Sigma3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017), https://arxiv.org/abs/1611.03769.
+- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Sigma3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017), [Read on arXiv](https://arxiv.org/abs/1611.03769).
 
 ---
 
@@ -204,7 +204,7 @@ imaging and computational biology.
 **Outcome:** First-author publications in Physics Letters B 
 and Physical Review C.
 
-- V. Sokhoyan, S. Prakhov, A. Fix et al., “Measurement of the beam-helicity asymmetry in photoproduction of π0η pairs on carbon, aluminum, and lead“, Phys. Lett. B 802, 135243 (2020).
+- V. Sokhoyan, S. Prakhov, A. Fix et al., “Measurement of the beam-helicity asymmetry in photoproduction of π0η pairs on carbon, aluminum, and lead“, Phys. Lett. B 802, 135243 (2020), .
 - V. Sokhoyan, S. Prakhov, A. Fix et al., “Study of the gammap→pi0 eta p reaction with the A2 setup at MAMI”, Phys. Rev. C 97, 055212 (2018).
 
 ---
