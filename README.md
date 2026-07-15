@@ -154,7 +154,7 @@ baryon resonances (the highest citation standard in particle
 physics).
 
 **Links:**
-- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015), [Read on arxiv](https://arxiv.org/abs/1907.00232).
+- V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on I^{s}I^{c} in gammap→p pi0 pi0 reveal cascade decays of N(1900) via N(1520)pi”, Phys.Lett. B746 (2015) 127-131 (2015), [Read open access at PLB](https://www.sciencedirect.com/science/article/pii/S0370269315003299?via%3Dihub).
 - V. Sokhoyan, E. Gutz, V. Crede, H. van Pee et al., “High-statistics study of the reaction gammap→p2pi0“, Eur.Phys.J. A51 (2015) no.8, 95 (2015), [Read on arxiv](https://arxiv.org/abs/1507.02488).
 - A. Thiel, V. Sokhoyan, E. Gutz, H. van Pee et al., “Three-body nature of N and Delta resonances from sequential decay chains”, Phys.Rev.Lett. 114 no.9, 091803 (2015), [Read on arxiv](https://arxiv.org/abs/1501.02094).
 
