@@ -237,8 +237,6 @@ current approaches to ML model evaluation and validation.
 
 ---
 
-## Research Profiles
-
 # Research Profiles
 
 - [Google Scholar – Publications & Citations](https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de)
