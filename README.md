@@ -154,7 +154,7 @@ CBELSA/TAPS experiment at ELSA accelerator in Bonn (University of Bonn, 2006–2
 - Preparation of particle detectors
 - Multiple first-author publications
 
-**Outcome:** One of the publications (Eur.Phys.J. A51 (2015) no.8, 95 (2015)) selected by the Particle Data 
+**Outcome:** One of the publications (Eur. Phys. J. A51 (2015) no.8, 95 (2015)) selected by the Particle Data 
 Group (PDG) as the primary reference for properties of multiple baryon resonances and their properties.
 
 **Links:**
@@ -181,7 +181,7 @@ Physical Journal A, providing a new experimental reference
 for nucleon scalar polarizabilities. 
 
 **Link:**
-- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Σ3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017), [Read on arXiv](https://arxiv.org/abs/1611.03769).
+- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Σ3 in Compton scattering”, Eur. Phys. J. A53 (2017) no.1, 14 (2017), [Read on arXiv](https://arxiv.org/abs/1611.03769).
 
 ---
 
