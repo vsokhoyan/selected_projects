@@ -204,8 +204,8 @@ imaging and computational biology.
 **Outcome:** First-author publications in Physics Letters B 
 and Physical Review C.
 
-- V. Sokhoyan, S. Prakhov, A. Fix et al., “Measurement of the beam-helicity asymmetry in photoproduction of π0η pairs on carbon, aluminum, and lead“, Phys. Lett. B 802, 135243 (2020), .
-- V. Sokhoyan, S. Prakhov, A. Fix et al., “Study of the gammap→pi0 eta p reaction with the A2 setup at MAMI”, Phys. Rev. C 97, 055212 (2018).
+- V. Sokhoyan, S. Prakhov, A. Fix et al., “Measurement of the beam-helicity asymmetry in photoproduction of π0η pairs on carbon, aluminum, and lead“, Phys. Lett. B 802, 135243 (2020), [Read on arxiv](https://arxiv.org/abs/1907.00232).
+- V. Sokhoyan, S. Prakhov, A. Fix et al., “Study of the gammap→pi0 eta p reaction with the A2 setup at MAMI”, Phys. Rev. C 97, 055212 (2018), [Read on arxiv](https://arxiv.org/abs/1803.00727).
 
 ---
 
