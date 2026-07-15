@@ -84,7 +84,9 @@ Development of production machine learning methods for
 large-scale entity resolution within the German Financial 
 Administration, including methods for distinguishing genuine 
 entity matches from typographical variations and OCR-distorted 
-name pairs.
+name pairs. The developed methods combine neural similarity learning, 
+graph-based clustering, and classical machine learning to improve identity 
+resolution under realistic administrative data quality conditions.
 
 **Main topics:**
 - Siamese neural networks for pairwise similarity
