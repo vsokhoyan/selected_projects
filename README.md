@@ -111,7 +111,7 @@ large noisy datasets is common to both domains.
 
 **Links:**
 - Publication: V. Sokhoyan, E. Mornacchi, “A new Machine Learning-based method for identification of time-correlated events at tagged photon facilities”,
-  Journal of Instrumentation 18, P10007 (2023), https://arxiv.org/abs/2307.04776
+  Journal of Instrumentation 18, P10007 (2023), [Read on arXiv](https://arxiv.org/abs/2307.04776)
 
 ---
 
