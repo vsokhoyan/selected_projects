@@ -38,8 +38,7 @@ consistently outperforms naive ensembling.
 Comprehensive technical writeup published.
 
 **Links:**
-- GitHub writeup: https://vsokhoyan.github.io/ChestXRay_Multiclass_Detection/
-- Kaggle: https://www.kaggle.com/writeups/vahesokhoyan/chest-x-ray-multi-class-object-detection-rt-detr
+- [Technical writeup](https://vsokhoyan.github.io/ChestXRay_Multiclass_Detection/)
 
 ---
 
@@ -69,7 +68,7 @@ preservation in hierarchical multi-label prediction.
 Work in progress toward a scientific publication.
 
 **Links:**
-- GitHub writeup: https://vsokhoyan.github.io/CAFA6-ML/
+- [Technical writeup](https://vsokhoyan.github.io/CAFA6-ML/)
 
 ---
 
@@ -132,7 +131,7 @@ and scientific domains.
 
 **Links:**
 
-- Kaggle: https://www.kaggle.com/vahesokhoyan/competitions
+- [Kaggle Competitions](https://www.kaggle.com/vahesokhoyan/competitions)
 
 ---
 
@@ -240,6 +239,8 @@ current approaches to ML model evaluation and validation.
 
 ## Research Profiles
 
-- Google Scholar: https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de
-- Scopus Profile: https://www.scopus.com/authid/detail.uri?authorId=23989342800, h-index = 26
-- Kaggle profile: https://www.kaggle.com/vahesokhoyan
+# Research Profiles
+
+- [Google Scholar – Publications & Citations](https://scholar.google.com/citations?user=7leLPVMAAAAJ&hl=de)
+- [Scopus Author Profile (h-index: 26)](https://www.scopus.com/authid/detail.uri?authorId=23989342800)
+- [Kaggle Competitions Profile](https://www.kaggle.com/vahesokhoyan)
