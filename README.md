@@ -2,10 +2,9 @@
 
 My work combines 20+ years of experimental physics research 
 (PhD from the University of Bonn, research at the University of Mainz and George Washington University, 
-70+ peer-reviewed publications, Carl Zeiss Fellowship, scientific leadership and management roles) 
+70+ peer-reviewed publications, Carl Zeiss Fellowship, scientific leadership) 
 with modern machine learning across entity resolution, medical imaging, computational biology, and production data science. 
-The common thread: systematic experimental methodology and solution of non-trivial tasks applied to complex, noisy, 
-real-world data.
+The common thread is the application of systematic experimental methodology to solving non-trivial problems involving complex, noisy real-world data.
 
 [Machine Learning Projects](#machine-learning-projects) ·
 [Selected Scientific Projects](#selected-scientific-projects) ·
@@ -27,7 +26,7 @@ across architectures (RT-DETR, DINO), optimization strategies
 (ADAM, MuSGD), and cross-validation folds. The central finding 
 is that selective evidence fusion, using independent detectors 
 as supporting evidence rather than fusing all predictions,
-consistently outperforms naive ensembling.
+consistently outperforms conventional ensembling approaches.
 
 **Main topics:**
 - Object detection with transformer-based architectures 
@@ -132,7 +131,7 @@ analysis and scientific LLM benchmarking.
 - Nemotron scientific LLM evaluation and benchmarking.
 
 **Outcome:** Practical experience with fine-tuning and 
-applying large foundation models across biological, medical, 
+applying foundation models across biological, medical, 
 and scientific domains.
 
 **Links:**
@@ -155,7 +154,7 @@ CBELSA/TAPS experiment at ELSA accelerator in Bonn (University of Bonn, 2006–2
 - Multiple first-author publications
 
 **Outcome:** One of the publications (Eur. Phys. J. A51 (2015) no.8, 95 (2015)) selected by the Particle Data 
-Group (PDG) as the primary reference for properties of multiple baryon resonances and their properties.
+Group (PDG) as the primary reference for properties of multiple baryon resonances.
 
 **Links:**
 - V. Sokhoyan, E. Gutz, H. van Pee et al., “Data on Is and Ic in γp → pπ⁰π⁰ reveal cascade decays of N(1900) via N(1520)pi”, Phys. Lett. B746 (2015) 127-131 (2015), [Read open access at PLB](https://www.sciencedirect.com/science/article/pii/S0370269315003299?via%3Dihub).
