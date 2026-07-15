@@ -38,7 +38,7 @@ consistently outperforms naive ensembling.
 - Distribution shift analysis and validation-to-leaderboard 
   transfer
 
-**Outcome:** 3rd place (private leaderboard, 200+ participants). 
+**Outcome:** 3rd place (private leaderboard). 
 Comprehensive technical writeup published.
 
 **Links:**
