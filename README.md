@@ -50,8 +50,8 @@ function annotation using ProtT5-XL and ESM2 foundation models,
 including end-to-end fine-tuning and systematic benchmarking 
 against fixed-embedding baselines.
 
-A key methodological contribution is an information-accretion-
-aware ensemble aggregation strategy, which uses different 
+A key methodological contribution is an information accretion-aware ensemble 
+aggregation strategy, which uses different 
 aggregation schemes for ontology regions depending on label 
 specificity, addressing the challenge of rare-label signal 
 preservation in hierarchical multi-label prediction.
@@ -126,7 +126,7 @@ analysis and scientific LLM benchmarking.
 - Nemotron scientific LLM evaluation and benchmarking.
 
 **Outcome:** Practical experience with fine-tuning and 
-deploying large foundation models across biological, medical, 
+applying large foundation models across biological, medical, 
 and scientific domains.
 
 **Links:**
