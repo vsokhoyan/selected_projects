@@ -178,7 +178,7 @@ Physical Journal A, providing a new experimental reference
 for nucleon scalar polarizabilities. 
 
 **Link:**
-- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Sigma3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017).
+- Publication: V. Sokhoyan, E.J. Downie, E. Mornacchi, J.A. McGovern, N. Krupina et al., “Determination of the scalar polarizabilities of the proton using beam asymmetry Sigma3 in Compton scattering”, Eur.Phys.J. A53 (2017) no.1, 14 (2017), https://arxiv.org/abs/1611.03769.
 
 ---
 
