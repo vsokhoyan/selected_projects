@@ -120,7 +120,7 @@ large noisy datasets is common to both domains.
 
 ---
 
-### Foundation Models and Sequence Analysis: RNA, LLMs, and Biological Sequences
+### Foundation Models and Scientific AI: RNA, LLMs, and Biological Sequences
 
 Evaluation and application of modern foundation models to 
 scientific prediction tasks, including biological sequence 
